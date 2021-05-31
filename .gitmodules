@@ -39,3 +39,8 @@
 	url = https://github.com/ropensci/bowerbird
 	shallow = true
 	registered = false
+[submodule "raadfiles"]
+	path = raadfiles
+	url = https://github.com/AustralianAntarcticDivision/raadfiles
+	shallow = true
+	registered = false

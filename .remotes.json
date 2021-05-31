@@ -11,5 +11,11 @@
     "url": "https://github.com/ropensci/bowerbird",
     "via": ["quantarcticR"],
     "from": "quantarcticR"
+  },
+  {
+    "package": "raadfiles",
+    "url": "https://github.com/AustralianAntarcticDivision/raadfiles",
+    "via": ["raadtools"],
+    "from": "raadtools"
   }
 ]
