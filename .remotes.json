@@ -1,12 +1,5 @@
 [
   {
-    "package": "DietAndEnergetics",
-    "url": "https://github.com/SCAR/DietAndEnergetics",
-    "via": ["solong"],
-    "subdir": "R/dietdataentry",
-    "from": "solong"
-  },
-  {
     "package": "bowerbird",
     "url": "https://github.com/ropensci/bowerbird",
     "via": ["blueant"],
@@ -17,6 +10,13 @@
     "url": "https://github.com/ropensci/bowerbird",
     "via": ["quantarcticR"],
     "from": "quantarcticR"
+  },
+  {
+    "package": "dietdataentry",
+    "url": "https://github.com/SCAR/DietAndEnergetics",
+    "via": ["solong"],
+    "subdir": "R/dietdataentry",
+    "from": "solong"
   },
   {
     "package": "ggnewscale",

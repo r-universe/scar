@@ -43,16 +43,16 @@
 	url = https://github.com/SCAR/quantarcticR
 	shallow = true
 	registered = true
-[submodule "DietAndEnergetics"]
-	path = DietAndEnergetics
-	url = https://github.com/SCAR/DietAndEnergetics
-	shallow = true
-	subdir = R/dietdataentry
-	registered = false
 [submodule "bowerbird"]
 	path = bowerbird
 	url = https://github.com/ropensci/bowerbird
 	shallow = true
+	registered = false
+[submodule "dietdataentry"]
+	path = dietdataentry
+	url = https://github.com/SCAR/DietAndEnergetics
+	shallow = true
+	subdir = R/dietdataentry
 	registered = false
 [submodule "ggnewscale"]
 	path = ggnewscale
