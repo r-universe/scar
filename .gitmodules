@@ -13,3 +13,9 @@
 	url = https://github.com/SCAR/solong
 	shallow = true
 	registered = true
+[submodule "DietAndEnergetics"]
+	path = DietAndEnergetics
+	url = https://github.com/SCAR/DietAndEnergetics
+	shallow = true
+	subdir = R/dietdataentry
+	registered = false

@@ -1,0 +1,9 @@
+[
+  {
+    "package": "DietAndEnergetics",
+    "url": "https://github.com/SCAR/DietAndEnergetics",
+    "via": ["solong"],
+    "subdir": "R/dietdataentry",
+    "from": "solong"
+  }
+]
