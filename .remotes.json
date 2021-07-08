@@ -5,5 +5,17 @@
     "via": ["solong"],
     "subdir": "R/dietdataentry",
     "from": "solong"
+  },
+  {
+    "package": "archive",
+    "url": "https://github.com/jimhester/archive",
+    "via": ["quantarcticR", "bowerbird"],
+    "from": "quantarcticR"
+  },
+  {
+    "package": "bowerbird",
+    "url": "https://github.com/ropensci/bowerbird",
+    "via": ["quantarcticR"],
+    "from": "quantarcticR"
   }
 ]
