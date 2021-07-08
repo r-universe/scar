@@ -24,11 +24,6 @@
 	shallow = true
 	subdir = R/dietdataentry
 	registered = false
-[submodule "archive"]
-	path = archive
-	url = https://github.com/jimhester/archive
-	shallow = true
-	registered = false
 [submodule "bowerbird"]
 	path = bowerbird
 	url = https://github.com/ropensci/bowerbird
