@@ -13,6 +13,11 @@
 	url = https://github.com/SCAR/solong
 	shallow = true
 	registered = true
+[submodule "quantarcticR"]
+	path = quantarcticR
+	url = https://github.com/SCAR/quantarcticR
+	shallow = true
+	registered = true
 [submodule "DietAndEnergetics"]
 	path = DietAndEnergetics
 	url = https://github.com/SCAR/DietAndEnergetics
