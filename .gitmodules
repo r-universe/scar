@@ -3,6 +3,11 @@
 	url = https://github.com/scar/universe
 	shallow = true
 	branch = HEAD
+[submodule "antanym"]
+	path = antanym
+	url = https://github.com/ropensci/antanym
+	shallow = true
+	registered = true
 [submodule "sohungry"]
 	path = sohungry
 	url = https://github.com/SCAR/sohungry
