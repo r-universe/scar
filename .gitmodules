@@ -8,6 +8,11 @@
 	url = https://github.com/ropensci/antanym
 	shallow = true
 	registered = true
+[submodule "raadtools"]
+	path = raadtools
+	url = https://github.com/AustralianAntarcticDivision/raadtools
+	shallow = true
+	registered = true
 [submodule "sohungry"]
 	path = sohungry
 	url = https://github.com/SCAR/sohungry
