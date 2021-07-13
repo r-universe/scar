@@ -12,6 +12,9 @@
     "package": "solong"
   },
   {
+    "package": "SOmap"
+  },
+  {
     "package": "quantarcticR"
   }
 ]

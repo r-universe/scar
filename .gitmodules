@@ -23,6 +23,11 @@
 	url = https://github.com/SCAR/solong
 	shallow = true
 	registered = true
+[submodule "SOmap"]
+	path = SOmap
+	url = https://github.com/AustralianAntarcticDivision/SOmap
+	shallow = true
+	registered = true
 [submodule "quantarcticR"]
 	path = quantarcticR
 	url = https://github.com/SCAR/quantarcticR
