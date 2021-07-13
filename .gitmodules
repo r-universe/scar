@@ -44,8 +44,23 @@
 	url = https://github.com/ropensci/bowerbird
 	shallow = true
 	registered = false
+[submodule "ggnewscale"]
+	path = ggnewscale
+	url = https://github.com/eliocamp/ggnewscale
+	shallow = true
+	registered = false
+[submodule "ggplot2"]
+	path = ggplot2
+	url = https://github.com/tidyverse/ggplot2
+	shallow = true
+	registered = false
 [submodule "raadfiles"]
 	path = raadfiles
 	url = https://github.com/AustralianAntarcticDivision/raadfiles
+	shallow = true
+	registered = false
+[submodule "relayer"]
+	path = relayer
+	url = https://github.com/clauswilke/relayer
 	shallow = true
 	registered = false

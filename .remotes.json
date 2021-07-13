@@ -13,9 +13,27 @@
     "from": "quantarcticR"
   },
   {
+    "package": "ggnewscale",
+    "url": "https://github.com/eliocamp/ggnewscale",
+    "via": ["SOmap"],
+    "from": "SOmap"
+  },
+  {
+    "package": "ggplot2",
+    "url": "https://github.com/tidyverse/ggplot2",
+    "via": ["SOmap", "relayer"],
+    "from": "SOmap"
+  },
+  {
     "package": "raadfiles",
     "url": "https://github.com/AustralianAntarcticDivision/raadfiles",
     "via": ["raadtools"],
     "from": "raadtools"
+  },
+  {
+    "package": "relayer",
+    "url": "https://github.com/clauswilke/relayer",
+    "via": ["SOmap"],
+    "from": "SOmap"
   }
 ]
