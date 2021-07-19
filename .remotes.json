@@ -9,6 +9,12 @@
   {
     "package": "bowerbird",
     "url": "https://github.com/ropensci/bowerbird",
+    "via": ["blueant"],
+    "from": "blueant"
+  },
+  {
+    "package": "bowerbird",
+    "url": "https://github.com/ropensci/bowerbird",
     "via": ["quantarcticR"],
     "from": "quantarcticR"
   },
