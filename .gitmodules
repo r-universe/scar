@@ -13,6 +13,11 @@
 	url = https://github.com/AustralianAntarcticDivision/availability
 	shallow = true
 	registered = true
+[submodule "blueant"]
+	path = blueant
+	url = https://github.com/AustralianAntarcticDivision/blueant
+	shallow = true
+	registered = true
 [submodule "raadtools"]
 	path = raadtools
 	url = https://github.com/AustralianAntarcticDivision/raadtools

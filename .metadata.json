@@ -6,6 +6,9 @@
     "package": "availability"
   },
   {
+    "package": "blueant"
+  },
+  {
     "package": "raadtools"
   },
   {
