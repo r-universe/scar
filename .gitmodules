@@ -28,6 +28,11 @@
 	url = https://github.com/SCAR/sohungry
 	shallow = true
 	registered = true
+[submodule "solong"]
+	path = solong
+	url = https://github.com/SCAR/solong
+	shallow = true
+	registered = true
 [submodule "SOmap"]
 	path = SOmap
 	url = https://github.com/AustralianAntarcticDivision/SOmap
