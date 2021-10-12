@@ -13,34 +13,9 @@
 	url = https://github.com/AustralianAntarcticDivision/availability
 	shallow = true
 	registered = true
-[submodule "blueant"]
-	path = blueant
-	url = https://github.com/AustralianAntarcticDivision/blueant
-	shallow = true
-	registered = true
-[submodule "raadtools"]
-	path = raadtools
-	url = https://github.com/AustralianAntarcticDivision/raadtools
-	shallow = true
-	registered = true
 [submodule "sohungry"]
 	path = sohungry
 	url = https://github.com/SCAR/sohungry
-	shallow = true
-	registered = true
-[submodule "solong"]
-	path = solong
-	url = https://github.com/SCAR/solong
-	shallow = true
-	registered = true
-[submodule "SOmap"]
-	path = SOmap
-	url = https://github.com/AustralianAntarcticDivision/SOmap
-	shallow = true
-	registered = true
-[submodule "quantarcticR"]
-	path = quantarcticR
-	url = https://github.com/SCAR/quantarcticR
 	shallow = true
 	registered = true
 [submodule "bowerbird"]
