@@ -18,6 +18,11 @@
 	url = https://github.com/AustralianAntarcticDivision/blueant
 	shallow = true
 	registered = true
+[submodule "raadfiles"]
+	path = raadfiles
+	url = https://github.com/AustralianAntarcticDivision/raadfiles
+	shallow = true
+	registered = true
 [submodule "raadtools"]
 	path = raadtools
 	url = https://github.com/AustralianAntarcticDivision/raadtools
@@ -43,6 +48,11 @@
 	url = https://github.com/SCAR/quantarcticR
 	shallow = true
 	registered = true
+[submodule "QPress"]
+	path = QPress
+	url = https://github.com/swotherspoon/QPress
+	shallow = true
+	registered = true
 [submodule "bowerbird"]
 	path = bowerbird
 	url = https://github.com/ropensci/bowerbird
@@ -62,11 +72,6 @@
 [submodule "ggplot2"]
 	path = ggplot2
 	url = https://github.com/tidyverse/ggplot2
-	shallow = true
-	registered = false
-[submodule "raadfiles"]
-	path = raadfiles
-	url = https://github.com/AustralianAntarcticDivision/raadfiles
 	shallow = true
 	registered = false
 [submodule "relayer"]

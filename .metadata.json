@@ -9,6 +9,9 @@
     "package": "blueant"
   },
   {
+    "package": "raadfiles"
+  },
+  {
     "package": "raadtools"
   },
   {
@@ -22,5 +25,8 @@
   },
   {
     "package": "quantarcticR"
+  },
+  {
+    "package": "QPress"
   }
 ]
