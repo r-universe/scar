@@ -41,5 +41,11 @@
     "url": "https://github.com/clauswilke/relayer",
     "via": ["SOmap"],
     "from": "SOmap"
+  },
+  {
+    "package": "vapour",
+    "url": "https://github.com/hypertidy/vapour",
+    "via": ["raadtools"],
+    "from": "raadtools"
   }
 ]
