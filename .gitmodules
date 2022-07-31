@@ -18,6 +18,11 @@
 	url = https://github.com/AustralianAntarcticDivision/blueant
 	shallow = true
 	registered = true
+[submodule "mapppdr"]
+	path = mapppdr
+	url = https://github.com/CCheCastaldo/mapppdr
+	shallow = true
+	registered = true
 [submodule "raadfiles"]
 	path = raadfiles
 	url = https://github.com/AustralianAntarcticDivision/raadfiles
