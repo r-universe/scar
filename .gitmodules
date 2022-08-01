@@ -63,12 +63,6 @@
 	url = https://github.com/ropensci/bowerbird
 	shallow = true
 	registered = false
-[submodule "dietdataentry"]
-	path = dietdataentry
-	url = https://github.com/SCAR/DietAndEnergetics
-	shallow = true
-	subdir = R/dietdataentry
-	registered = false
 [submodule "ggnewscale"]
 	path = ggnewscale
 	url = https://github.com/eliocamp/ggnewscale

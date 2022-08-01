@@ -12,13 +12,6 @@
     "from": "quantarcticR"
   },
   {
-    "package": "dietdataentry",
-    "url": "https://github.com/SCAR/DietAndEnergetics",
-    "via": ["solong"],
-    "subdir": "R/dietdataentry",
-    "from": "solong"
-  },
-  {
     "package": "ggnewscale",
     "url": "https://github.com/eliocamp/ggnewscale",
     "via": ["SOmap"],
