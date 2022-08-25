@@ -12,12 +12,6 @@
     "from": "quantarcticR"
   },
   {
-    "package": "ggnewscale",
-    "url": "https://github.com/eliocamp/ggnewscale",
-    "via": ["SOmap"],
-    "from": "SOmap"
-  },
-  {
     "package": "ggplot2",
     "url": "https://github.com/tidyverse/ggplot2",
     "via": ["SOmap", "relayer"],
