@@ -63,16 +63,6 @@
 	url = https://github.com/ropensci/bowerbird
 	shallow = true
 	registered = false
-[submodule "ggplot2"]
-	path = ggplot2
-	url = https://github.com/tidyverse/ggplot2
-	shallow = true
-	registered = false
-[submodule "relayer"]
-	path = relayer
-	url = https://github.com/clauswilke/relayer
-	shallow = true
-	registered = false
 [submodule "vapour"]
 	path = vapour
 	url = https://github.com/hypertidy/vapour
