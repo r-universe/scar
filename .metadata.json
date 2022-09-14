@@ -31,5 +31,8 @@
   },
   {
     "package": "QPress"
+  },
+  {
+    "package": "RDCOMClient"
   }
 ]
