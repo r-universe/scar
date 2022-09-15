@@ -58,11 +58,6 @@
 	url = https://github.com/swotherspoon/QPress
 	shallow = true
 	registered = true
-[submodule "RDCOMClient"]
-	path = RDCOMClient
-	url = https://github.com/omegahat/RDCOMClient
-	shallow = true
-	registered = true
 [submodule "bowerbird"]
 	path = bowerbird
 	url = https://github.com/ropensci/bowerbird
