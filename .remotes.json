@@ -16,11 +16,5 @@
     "url": "https://github.com/AustralianAntarcticDivision/raadfiles",
     "via": ["raadtools"],
     "from": "raadtools"
-  },
-  {
-    "package": "vapour",
-    "url": "https://github.com/hypertidy/vapour",
-    "via": ["raadtools"],
-    "from": "raadtools"
   }
 ]
