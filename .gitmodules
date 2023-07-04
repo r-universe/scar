@@ -1,65 +1,41 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/scar/universe
-	shallow = true
 	branch = HEAD
 [submodule "antanym"]
 	path = antanym
 	url = https://github.com/ropensci/antanym
-	shallow = true
-	registered = true
 [submodule "availability"]
 	path = availability
 	url = https://github.com/AustralianAntarcticDivision/availability
-	shallow = true
-	registered = true
 [submodule "blueant"]
 	path = blueant
 	url = https://github.com/AustralianAntarcticDivision/blueant
-	shallow = true
-	registered = true
 [submodule "mapppdr"]
 	path = mapppdr
 	url = https://github.com/CCheCastaldo/mapppdr
-	shallow = true
-	registered = true
 [submodule "raadfiles"]
 	path = raadfiles
 	url = https://github.com/AustralianAntarcticDivision/raadfiles
-	shallow = true
-	registered = true
 [submodule "raadtools"]
 	path = raadtools
 	url = https://github.com/AustralianAntarcticDivision/raadtools
-	shallow = true
-	registered = true
 [submodule "sohungry"]
 	path = sohungry
 	url = https://github.com/SCAR/sohungry
-	shallow = true
-	registered = true
 [submodule "solong"]
 	path = solong
 	url = https://github.com/SCAR/solong
-	shallow = true
-	registered = true
 [submodule "SOmap"]
 	path = SOmap
 	url = https://github.com/AustralianAntarcticDivision/SOmap
-	shallow = true
-	registered = true
 [submodule "quantarcticR"]
 	path = quantarcticR
 	url = https://github.com/SCAR/quantarcticR
-	shallow = true
-	registered = true
 [submodule "QPress"]
 	path = QPress
 	url = https://github.com/swotherspoon/QPress
-	shallow = true
-	registered = true
 [submodule "bowerbird"]
 	path = bowerbird
 	url = https://github.com/ropensci/bowerbird
-	shallow = true
 	registered = false
