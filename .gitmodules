@@ -2,6 +2,12 @@
 	path = .registry
 	url = https://github.com/scar/universe
 	branch = HEAD
+[submodule "QPress"]
+	path = QPress
+	url = https://github.com/swotherspoon/QPress
+[submodule "SOmap"]
+	path = SOmap
+	url = https://github.com/AustralianAntarcticDivision/SOmap
 [submodule "antanym"]
 	path = antanym
 	url = https://github.com/ropensci/antanym
@@ -11,9 +17,16 @@
 [submodule "blueant"]
 	path = blueant
 	url = https://github.com/AustralianAntarcticDivision/blueant
+[submodule "bowerbird"]
+	path = bowerbird
+	url = https://github.com/ropensci/bowerbird
+	registered = false
 [submodule "mapppdr"]
 	path = mapppdr
 	url = https://github.com/CCheCastaldo/mapppdr
+[submodule "quantarcticR"]
+	path = quantarcticR
+	url = https://github.com/SCAR/quantarcticR
 [submodule "raadfiles"]
 	path = raadfiles
 	url = https://github.com/AustralianAntarcticDivision/raadfiles
@@ -26,16 +39,3 @@
 [submodule "solong"]
 	path = solong
 	url = https://github.com/SCAR/solong
-[submodule "SOmap"]
-	path = SOmap
-	url = https://github.com/AustralianAntarcticDivision/SOmap
-[submodule "quantarcticR"]
-	path = quantarcticR
-	url = https://github.com/SCAR/quantarcticR
-[submodule "QPress"]
-	path = QPress
-	url = https://github.com/swotherspoon/QPress
-[submodule "bowerbird"]
-	path = bowerbird
-	url = https://github.com/ropensci/bowerbird
-	registered = false
