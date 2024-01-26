@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/scar/universe
+	url = https://github.com/scar/scar.r-universe.dev
 	branch = HEAD
 [submodule "QPress"]
 	path = QPress
