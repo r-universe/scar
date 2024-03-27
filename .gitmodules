@@ -33,10 +33,6 @@
 [submodule "raadtools"]
 	path = raadtools
 	url = https://github.com/AustralianAntarcticDivision/raadtools
-[submodule "rgdal"]
-	path = rgdal
-	url = https://github.com/cran/rgdal
-	registered = false
 [submodule "sohungry"]
 	path = sohungry
 	url = https://github.com/SCAR/sohungry

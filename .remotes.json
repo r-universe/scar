@@ -16,11 +16,5 @@
     "url": "https://github.com/AustralianAntarcticDivision/raadfiles",
     "via": ["raadtools"],
     "from": "raadtools"
-  },
-  {
-    "package": "rgdal",
-    "url": "https://github.com/cran/rgdal",
-    "via": ["SOmap"],
-    "from": "SOmap"
   }
 ]
