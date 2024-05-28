@@ -12,6 +12,12 @@
     "from": "quantarcticR"
   },
   {
+    "package": "fs",
+    "url": "https://github.com/r-lib/fs",
+    "via": ["raadfiles"],
+    "from": "raadfiles"
+  },
+  {
     "package": "raadfiles",
     "url": "https://github.com/AustralianAntarcticDivision/raadfiles",
     "via": ["raadtools"],
