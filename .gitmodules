@@ -28,9 +28,6 @@
 	path = fs
 	url = https://github.com/r-lib/fs
 	registered = false
-[submodule "mapppdr"]
-	path = mapppdr
-	url = https://github.com/CCheCastaldo/mapppdr
 [submodule "quantarcticR"]
 	path = quantarcticR
 	url = https://github.com/SCAR/quantarcticR
