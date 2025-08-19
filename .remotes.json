@@ -1,5 +1,17 @@
 [
   {
+    "package": "CopernicusMarine",
+    "url": "https://github.com/pepijn-devries/CopernicusMarine",
+    "via": ["blueant", "bowerbird"],
+    "from": "blueant"
+  },
+  {
+    "package": "aws.s3",
+    "url": "https://github.com/cloudyr/aws.s3",
+    "via": ["blueant", "bowerbird"],
+    "from": "blueant"
+  },
+  {
     "package": "bowerbird",
     "url": "https://github.com/ropensci/bowerbird",
     "via": ["blueant"],
