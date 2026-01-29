@@ -2,10 +2,6 @@
 	path = .registry
 	url = https://github.com/scar/scar.r-universe.dev
 	branch = HEAD
-[submodule "CopernicusMarine"]
-	path = CopernicusMarine
-	url = https://github.com/pepijn-devries/CopernicusMarine
-	registered = false
 [submodule "QPress"]
 	path = QPress
 	url = https://github.com/swotherspoon/QPress
@@ -18,24 +14,12 @@
 [submodule "availability"]
 	path = availability
 	url = https://github.com/AustralianAntarcticDivision/availability
-[submodule "aws.s3"]
-	path = aws.s3
-	url = https://github.com/cloudyr/aws.s3
-	registered = false
 [submodule "blueant"]
 	path = blueant
 	url = https://github.com/AustralianAntarcticDivision/blueant
-[submodule "bowerbird"]
-	path = bowerbird
-	url = https://github.com/ropensci/bowerbird
-	registered = false
 [submodule "fastrls"]
 	path = fastrls
 	url = https://github.com/AustralianAntarcticDivision/fastrls
-[submodule "fs"]
-	path = fs
-	url = https://github.com/r-lib/fs
-	registered = false
 [submodule "polr"]
 	path = polr
 	url = https://github.com/SCAR/polr
