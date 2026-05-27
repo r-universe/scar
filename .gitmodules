@@ -17,6 +17,9 @@
 [submodule "blueant"]
 	path = blueant
 	url = https://github.com/AustralianAntarcticDivision/blueant
+[submodule "bowerbird"]
+	path = bowerbird
+	url = https://github.com/ropensci/bowerbird
 [submodule "fastrls"]
 	path = fastrls
 	url = https://github.com/AustralianAntarcticDivision/fastrls
